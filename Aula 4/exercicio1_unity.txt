@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Place your project Here, Like:
+=======
+Place your project Here, Like:
+>>>>>>> upstream/master
 TM-2020/Aula 4/RicardoGuia-21301/TMBallTutorial
